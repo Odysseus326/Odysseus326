@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Odysseus326 (Evan)
 - 👀 I’m a musician who has recently gotten really into programming.
-- 🌱 I’m currently improving my ability to program on Java with the many resources available online.
+- 🌱 I’m improving my ability to program on many different technologies (both front-end and back-end) with the many resources available online.
 - 💞️ I’m looking to get a job within the software development field soon.
 - 📫 Feel free to reach out to me on here!
 - 😄 Pronouns: he/him
